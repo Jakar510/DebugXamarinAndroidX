@@ -1,1 +1,1 @@
-# Debug Xamarin.AndroidX.Fragment and Xamarin.AndroidX.Biometric
+# Debug Xamarin.AndroidX.Fragment, Xamarin.AndroidX.AppCompat and Xamarin.AndroidX.Biometric 
